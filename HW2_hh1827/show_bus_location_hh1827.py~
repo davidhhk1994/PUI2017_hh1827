@@ -1,0 +1,24 @@
+import numpy as np
+import sys
+import os 
+import urllib2 as url
+
+sys.argv[1] = MTA_KEY
+sys.argv[2] = BUS_LINE
+
+data = data.read
+site = 'http://bustime.mta.info/api/siri/vehicle-monitoring.json?key='+ sys.argv[1]+'&VehicleMonitoringDetailLevel=calls&LineRef='+sys.argv[2]
+bus_data  = url.urlretrieve(site,$HOME+"/PUIDATA/"+sys.argv[2]+".json" )
+
+print('Bus Line: '+sys.argv[2])
+print('Number of Active Buses:' )
+
+print("Bus {} is at latitude {} and longitude {}".format())
+
+
+
+
+
+
+
+
