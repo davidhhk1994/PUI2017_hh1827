@@ -4,6 +4,9 @@ import os
 import json
 import urllib as url
 
+if not len(sys.argv) == 3:
+    print("Invalid number of argumenets. Run as: show_bus_location_hh1827.py")
+    sys.exit()
 
 site = 'http://bustime.mta.info/api/siri/vehicle-monitoring.json?key='+ sys.argv[1]+'&VehicleMonitoringDetailLevel=calls&LineRef='+sys.argv[2]
 
