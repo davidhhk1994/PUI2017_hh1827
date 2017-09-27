@@ -1,0 +1,1 @@
+I did my homework by myself. However, Zhi'ao Zhou and Yukun Wan helped me to understand the data structure. 
