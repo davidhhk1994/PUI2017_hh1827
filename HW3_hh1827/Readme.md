@@ -1,1 +1,1 @@
-For assignment 2, Zhi'ao Zhou helped me with understanding how to download and unzip zipped data by using zipfile package. For other assignments I did all work by myself. 
+For assignment 2, Zhi'ao Zhou (zz1749) helped me with understanding how to download and unzip zipped data by using zipfile package. For other assignments I did all work by myself. 
