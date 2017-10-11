@@ -11,7 +11,7 @@ The time frame is defined and the significance level is also stated.
 
 ### Verify that the data supports the project
 
-Data chosen supports the project. Although no analyses have been done looking at the fraction of men and women riders at night time, which forms the basis of the hypotheses.
+Data chosen supports the project. Although no analyses have been done looking at the fraction of men and women riders at night time, which forms the basis of the hypothesis.
 
 ### Choose an appropriate test
 Chi-Square test should be ideal as the test deals with comparing categorical variable gender
