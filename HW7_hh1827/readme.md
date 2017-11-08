@@ -1,0 +1,2 @@
+Assignment 1: I referred to Dr. Bianco's code. I finished the report all by myself. The link for my report on Authora is: https://www.authorea.com/210401/j0a51bZWP6diWqLhcmLPuQ
+Assignment 2: Zhi'ao Zhou helped me with the extra credit of achieving compatibility between python 2 and 3. For the rest of the work I finished all by myself. 
