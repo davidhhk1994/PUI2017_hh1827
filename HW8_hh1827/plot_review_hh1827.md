@@ -10,4 +10,4 @@ the addition of a caption, describing any particular trends or outliers to look 
 legend could be colored differently or given a border, as at first glance the blue dot that represents observations appears to be a data
 point itself. 
 
-Overall, the clearly portrays the relationship between EUI and GHG emissions. 
+Overall, the plot clearly portrays the relationship between EUI and GHG emissions. 
