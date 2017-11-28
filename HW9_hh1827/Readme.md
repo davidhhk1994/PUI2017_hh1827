@@ -1,0 +1,3 @@
+## HW9
+* I finished th¶îreview part of the homework all by myself. I reviewed the plots made by yt1369 and lz1714.
+* In the exploratory analysis of census data, Zhiao Zhou(zz1749) helped me with the reading in of puma shapefile. We are faced with the issue that the file name of the puma shapefile is different for each download. Zhiao Zhou also helped me with the understnding of Spatial Lag Deciles in Extra Credit 2. For the rest of the assignment, I finshed them all by myself. 
