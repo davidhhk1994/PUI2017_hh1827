@@ -15,3 +15,7 @@
 
 #### HONESTY: 
 * The plot honestly demonstrates the spatial distribution of all pick up locations throughout 2015 and no deformation or distortion are done to emphasize a certain feature. 
+
+# FBB good, things you missed: the thick white boarded around the whole plot is distracting since white is a color use in the plot. In fact I do not think there is "a big white dot" but just a lot of yellow dots that summed end up white at JFK. The fact that you missed it indicates the plot is not so clear after all
+
+10/10

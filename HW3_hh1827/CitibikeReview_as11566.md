@@ -16,3 +16,4 @@ Data chosen supports the project. Although no analyses have been done looking at
 ### Choose an appropriate test
 Chi-Square test should be ideal as the test deals with comparing categorical variable gender
 
+# FBB ok
